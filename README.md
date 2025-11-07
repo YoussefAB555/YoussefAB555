@@ -40,7 +40,7 @@
 - [**My Awesome Web App**](https://github.com/YoussefAB555/my-awesome-web-app): A full-stack application demonstrating modern web development practices.
 - [**Data Science Toolkit**](https://github.com/YoussefAB555/data-science-toolkit): A collection of scripts and notebooks for data analysis and machine learning.
 - [**CLI Utility**](https://github.com/YoussefAB555/cli-utility): A powerful command-line tool for automating daily tasks.
-- [**Game Development Project**](https://github.com/YoussefAB555/game-development-project): An experimental game built with [Engine/Framework].
+- [**Guess the Number Game**](https://youssefab555.github.io/YoussefAB555-GuessTheNumberGame/): A simple web-based game to test your guessing skills!
 
 ---
 
