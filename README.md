@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YoussefAB555/YoussefAB555/main/assets/banner.png" alt="YoussefAB555's GitHub Profile Banner" width="100%">
+  <img src="https://img.shields.io/badge/YoussefAB555-Tech%20Enthusiast-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="YoussefAB555's GitHub Profile Banner" width="100%">
   <h1>Hi there, I'm Youssef! 👋</h1>
   <p>A curious and driven software engineer with a passion for crafting elegant solutions, diving deep into system architecture, and exploring the cutting edge of technology. I thrive on challenges that push the boundaries of what's possible, always seeking to learn and innovate.</p>
   <p>🌐 Check out my personal website: <a href="https://youssef.cc">youssef.cc</a></p>
