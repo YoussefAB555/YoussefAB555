@@ -7,7 +7,7 @@ I am a passionate **Software Developer** and **BUT Informatique student** at **I
 - 🔭 I’m currently working on **AetherOS**, **Bridge-Vision**, and **NeuroGraph**.
 - 🌱 I’m currently learning **Kernel Development** and **Distributed Inference**.
 - 💬 Ask me about **React, Next.js, Rust, C++, and Linux**.
-- 📫 How to reach me: [youssef.abichou@outlook.com](mailto:youssef.abichou@outlook.com)
+- 📫 How to reach me: [contact@youssef.cc](mailto:contact@youssef.cc)
 - ⚡ Fun fact: I developed a robotic control system interfaced with a 3D simulation!
 
 ## 🛠️ Tech Stack
