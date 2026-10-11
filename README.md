@@ -1,7 +1,7 @@
 # Youssef Abichou
 
 **Systems, Networks & DevOps Administrator**  
-*Paris, France* &nbsp;•&nbsp; [youssef.cc](https://youssef.cc) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/youssef-abichou) &nbsp;•&nbsp; [contact@youssef.cc](mailto:contact@youssef.cc)
+*Paris, France* &nbsp;•&nbsp; [youssef.cc](https://youssef.cc) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/youssef-abichou/) &nbsp;•&nbsp; [contact@youssef.cc](mailto:contact@youssef.cc)
 
 ---
 
@@ -69,5 +69,5 @@ Automated infrastructure provisioning and security baseline tool for Linux envir
 ### Connect
 
 - **Portfolio:** [youssef.cc](https://youssef.cc)
-- **LinkedIn:** [linkedin.com/in/youssef-abichou](https://linkedin.com/in/youssef-abichou)
+- **LinkedIn:** [linkedin.com/in/youssef-abichou](https://www.linkedin.com/in/youssef-abichou/)
 - **Email:** [contact@youssef.cc](mailto:contact@youssef.cc)
