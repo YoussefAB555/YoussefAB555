@@ -66,14 +66,6 @@ Automated infrastructure provisioning and security baseline tool for Linux envir
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAB555&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Youssef's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAB555&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### Connect
 
 - **Portfolio:** [youssef.cc](https://youssef.cc)
