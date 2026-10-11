@@ -1,73 +1,81 @@
-# Hi there, I'm Youssef Abichou 👋
+# Youssef Abichou
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2DD4BF&width=435&lines=Software+Developer;But+Informatique+Student;AI+%26+Distributed+Systems+Enthusiast;Full-Stack+Engineer)](https://git.io/typing-svg)
+**Systems, Networks & DevOps Administrator**  
+*Paris, France* &nbsp;•&nbsp; [youssef.cc](https://youssef.cc) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/youssef-abichou) &nbsp;•&nbsp; [contact@youssef.cc](mailto:contact@youssef.cc)
 
-I am a passionate **Software Developer** and **BUT Informatique student** at **IUT d'Orsay (Université Paris-Saclay)**. I bridge the gap between full-stack development and low-level systems engineering, with a focus on **Algorithms**, **AI**, and **Distributed Systems**.
+---
 
-- 🔭 I’m currently working on **AetherOS**, **Bridge-Vision**, and **NeuroGraph**.
-- 🌱 I’m currently learning **Kernel Development** and **Distributed Inference**.
-- 💬 Ask me about **React, Next.js, Rust, C++, and Linux**.
-- 📫 How to reach me: [contact@youssef.cc](mailto:contact@youssef.cc)
-- ⚡ Fun fact: I developed a robotic control system interfaced with a 3D simulation!
+### About Me
 
-## 🛠️ Tech Stack
+Computer Science graduate (**BUT Informatique** from IUT d'Orsay — Université Paris-Saclay), currently pursuing a Master's degree in Enterprise Network & Systems Administration (**Mastère CARE / M2 IRS**) in Cachan.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+I focus on the intersection of robust systems administration, secure enterprise networks, and automated cloud workflows. Currently seeking a **24-month work-study contract (Alternance)** in Systems, Networks, or DevOps starting **September 2026**.
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+- 🔭 **Current Focus:** Enterprise Network Engineering, Linux & Windows Server Hardening, Cloud & DevOps Automation.
+- 🎯 **Target Role:** Systems & Network Administrator / DevOps Engineer (Apprenticeship).
+- 💬 **Languages:** French (Native), English (Fluent — TOEIC 910), German (Intermediate).
 
-## 🚀 Featured Projects
+---
 
-### 🃏 **Bridge-Vision**
-A sophisticated web portal revolutionizing bridge with Computer Vision and AI.
-- **Tech**: Java, Python, AI/CV, Web.
-- **Features**: Real-time card detection (52 cards < 0.5s), AI bidding via Gemini.
+### Technical Capabilities
 
-### 🦀 **AetherOS**
-A custom Unix-like microkernel written in Rust.
-- **Tech**: Rust, Assembly.
-- **Features**: Capability-based security, Async IPC, Zero-copy memory management.
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Operating Systems** | GNU/Linux (Debian, RHEL, Ubuntu), Windows Server 2022 (GUI & Core), Systemd, Bash, PowerShell |
+| **Enterprise Networking** | Cisco IOS, OSPF, HSRP, VLANs & Trunking (802.1Q), ACLs, DHCP Relay, NAT, GNS3, Wireshark |
+| **Cloud & DevOps** | Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions, GitLab CI), Helm, IaaS / PaaS, IAM |
+| **Security & Directory** | Active Directory (AD DS), Group Policy (GPO), AppLocker, BitLocker (AES-XTS), Fail2Ban, UFW, Zero Trust |
+| **Programming & Data** | Python, Go, Rust, C/C++, TypeScript, Node.js, PostgreSQL, MariaDB, Redis |
 
-### 🧠 **NeuroGraph**
-Distributed low-latency neural network inference engine.
-- **Tech**: Distributed Systems, AI.
-- **Features**: Optimized graph execution across heterogeneous clusters.
+---
 
-### 🎮 **Math Hero**
-An educational role-playing game developed in Unreal Engine 5.
-- **Tech**: Unreal Engine 5, C++.
-- **Features**: Gameplay mechanics tied to mathematical challenges.
+### Featured Projects
 
-### 🐧 **Linux Automation**
-Comprehensive Bash script for server automation and hardening.
-- **Tech**: Bash, Systemd, UFW.
-- **Features**: Automatic security hardening, cron jobs, log rotation.
+#### 🌐 [NEXORA — Multi-Site Enterprise Network Architecture](https://youssef.cc/projects)
+Comprehensive enterprise network designed, configured, and validated on GNS3.
+- **Routing & Redundancy:** Dynamic OSPF multi-area routing between headquarters and branch offices; HSRP gateway failover.
+- **Segmentation & Access:** 802.1Q VLAN trunking, standard and extended ACLs, DHCP service integration, NAT/PAT, and Wireshark traffic verification.
 
-## 📊 GitHub Stats
+#### 🏢 [TECHPRO — Multi-Site Windows Server 2022 Infrastructure](https://youssef.cc/projects)
+Full enterprise Windows domain deployment with strict security baselines.
+- **Directory Services:** Multi-site Active Directory (AD DS), hierarchical OU design, and granular administrative delegation.
+- **High Availability & Hardening:** DHCP Failover (Hot Standby), centralized GPOs, application control via AppLocker, and AES-XTS BitLocker volume encryption.
+
+#### 🃏 [Bridge-Vision — Distributed AI & Computer Vision Platform](https://youssef.cc/projects/bridgevision)
+Proof-of-concept developed for the French Bridge Federation (FFB) during my end-of-studies internship.
+- **Vision Pipeline:** Real-time multi-card detection (<0.5s for 52 cards) using custom YOLOv8 and OpenCV models.
+- **Full-Stack & AI:** Python/Django backend, Gemini-assisted bidding suggestions, and containerized deployment.
+
+#### ☸️ [Kubernetes Cluster Observability Tool](https://youssef.cc/projects)
+Custom lightweight cluster monitoring utility implemented in **Go**.
+- Direct querying of the Kubernetes API to collect node and workload metrics.
+- Pipeline integration streaming performance metrics into Prometheus and Grafana dashboards.
+
+#### 🐧 [Linux Server Auto-Provision & Hardening](https://youssef.cc/projects/linuxautomation)
+Automated infrastructure provisioning and security baseline tool for Linux environments.
+- Automated system hardening: SSH key authentication enforcement, UFW firewall configurations, and Fail2Ban intrusion prevention.
+- Daemon lifecycle management using custom Systemd units and automated backup/rotation tasks.
+
+---
+
+### Competitive Achievements
+
+- 🏆 **NASA Space Apps Challenge** — Winner
+- 🥇 **ICPC Regional** — Rank 1
+- 🎖️ **IOI 2024** — Participant
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAB555&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="YoussefAB555's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAB555&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAB555&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Youssef's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAB555&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAB555&theme=radical" alt="GitHub Streak" />
-</div>
+---
 
-## 🌐 Connect
-[![Website](https://img.shields.io/badge/Website-youssef.cc-blue?style=for-the-badge&logo=google-chrome)](https://youssef.cc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Abichou-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssef-abichou)
+### Connect
+
+- **Portfolio:** [youssef.cc](https://youssef.cc)
+- **LinkedIn:** [linkedin.com/in/youssef-abichou](https://linkedin.com/in/youssef-abichou)
+- **Email:** [contact@youssef.cc](mailto:contact@youssef.cc)
